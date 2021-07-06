@@ -1,6 +1,6 @@
-# Cấu trúc thư mục React tối ưu
+# Optimal9 React folder structure
 
 ## Login
 
-- username: admin
-- password: 123
+- username: anhben
+- password: 1516239022
